@@ -2,7 +2,7 @@
 
 ##### 🏫 Undergraduate, Department of Electronic and Information Engineering, [Soongsil University](https://ssu.ac.kr/) [EN](https://webtrans.llsollu.com:40443/ezweb/translate?source=KO&target=EN&profileId=0012d8d1-14e0-4237-a6a5-a68bc015f94d&url=https%3A%2F%2Fssu.ac.kr%2Fmain_renewal%2F)
 
-###### Current Status : 6 semesters done
+###### Current Status : 7 semesters done
 
 ###### (Mar 2019~) (Estimated Graduation Date: Feb 2025)
 
@@ -12,22 +12,18 @@
 
 ---
 
-### Tech Stack (~2024) :
-
-#### Now Learning :
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=Python&logoColor=FFD43B)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![MONAI](https://img.shields.io/badge/MONAI-5dc1b7.svg) ![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=Python&logoColor=white)
 
 
 ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
----
 
-### Now Studying...
+
+### Research
 **AI-based Signal Processing**
-1. Medical Image processing
-2. Object Segmentation
+1. Diffusion based Segmentation
+2. Interactive Segmentation
 
-in [4ILab](https://sites.google.com/ssu.ac.kr/4ilab/people)
+in [4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
 
 ---
 
