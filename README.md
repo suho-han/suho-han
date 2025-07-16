@@ -1,7 +1,8 @@
 # 한수호 (Suho Han)
 
 ##### 🏫 Graduate Student(MS), Department of Information and Telecommunication Engineering, [Soongsil University](https://ssu.ac.kr/) (Mar 2025~ TBD) 
-🔬[4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
+
+##### 🔬[4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
 
 🏫 Undergraduate, Department of Electronic and Information Engineering, [Soongsil University](https://ssu.ac.kr/) 
 (Mar 2019~Feb 2025)
@@ -11,7 +12,9 @@
 ---
 
 ### Research
-**AI-based Signal Processing**
+
+#### AI-based Signal Processing
+
 1. Diffusion based Segmentation
 2. Deepfake Detection
 
@@ -22,11 +25,12 @@ in [4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
 ### Tech Stacks
 
 #### Language
+
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
 
 #### Frameworks
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) ![MONAI](https://img.shields.io/badge/MONAI-5dc1b7) 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) ![MONAI](https://img.shields.io/badge/MONAI-5dc1b7)
 
 #### Tools
 
@@ -41,7 +45,9 @@ in [4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
 ---
 
 #### Formal Front-end Developer
-###### [Portfolio](https://github.com/suho-han/Portfolio)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/React-1F232A?style=flat&logo=React&logoColor=#61DBFB) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white) ![Emotion](https://img.shields.io/badge/Emotion-c468b7?style=flat&logo=&logoColor=) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white) 
+
+##### [Portfolio](https://github.com/suho-han/Portfolio)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white) ![React](https://img.shields.io/badge/React-1F232A?style=flat&logo=React&logoColor=#61DBFB) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white) ![Emotion](https://img.shields.io/badge/Emotion-c468b7?style=flat&logo=&logoColor=) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 
 ##### Worked at [Team MAT](https://github.com/TEAM-MAT) (2021.10 ~ 2023.06)
