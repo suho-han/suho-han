@@ -1,11 +1,11 @@
 # 한수호 (Suho Han)
 
-##### 🏫 Graduate Student(MS), Department of Information and Telecommunication Engineering, [Soongsil University](https://ssu.ac.kr/) (Mar 2025~ TBD) 
+🔬[4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University, Republic of Korea
 
-##### 🔬[4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
+🏫 Graduate Student(MS), Department of Information and Telecommunication Engineering, [Soongsil University](https://ssu.ac.kr/), Republic of Korea (Mar 2025 ~ Feb 2027) 
 
-🏫 Undergraduate, Department of Electronic and Information Engineering, [Soongsil University](https://ssu.ac.kr/) 
-(Mar 2019~Feb 2025)
+🏫 Undergraduate, Department of Electronic and Information Engineering, [Soongsil University](https://ssu.ac.kr/), Republic of Korea
+(Mar 2019 ~ Feb 2025)
 
 
 🏫 Exchange Student, Department of Electrical and Computer Engineering, [Concordia University](https://www.concordia.ca/), Montreal, QC, Canada
@@ -15,13 +15,22 @@
 
 ### Research
 
+#### Computer Vision
+- Image Segmentation
+   - [TMAL: Topology-preserving Multi-scale Affinity Learning for Curvilinear Structure Segmentation](https://github.com/suho-han/TMAL) (WACV 2027)
+       - Medical Imaging
+       - 2D Image Segmentation
+       - Multi-scale Feature Fusion
+  - Ongoing Project
+      - Medical Imaging
+      - 2D/3D Object Detection on Orbital Fracture
+      - 2D/3D Image Generation on Orbital Fracture
+      - 3D Reconstruction on Orbital Implant
+
 #### AI-based Signal Processing
 
-1. Diffusion based Segmentation
-2. Deepfake Detection
-
-in [4ILab](https://sites.google.com/ssu.ac.kr/4ilab/), Soongsil University
-
+- Diffusion-model based Segmentation
+- Multimodal Deepfake Detection
 ---
 
 ### Tech Stacks
