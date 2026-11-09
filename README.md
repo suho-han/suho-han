@@ -17,7 +17,7 @@
 
 #### Computer Vision
 - Image Segmentation
-   - [TMAL: Topology-preserving Multi-scale Affinity Learning for Curvilinear Structure Segmentation](https://github.com/suho-han/TMAL) (WACV 2027)
+   - [TMAL: Topology-preserving Multi-scale Affinity Learning for Curvilinear Structure Segmentation](https://github.com/suho-han/TMAL) (co-first author, WACV 2027)
        - Medical Imaging
        - 2D Image Segmentation
        - Multi-scale Feature Fusion
